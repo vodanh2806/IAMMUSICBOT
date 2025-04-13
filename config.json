@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": ".",
+    "mongodbUri": "mongodb+srv://sativa:sativa@discordbot.2ij4joh.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
