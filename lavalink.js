@@ -2,10 +2,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-        identifier: 'GlaceYT',
-        password: 'glaceyt',
-        host: '193.226.78.187',
-        port: 9372,
+        identifier: 'Sativa',
+        password: 'sativa',
+        host: 'http://helya.pylex.xyz/',
+        port: 11141,
         secure: false
     }
 };
