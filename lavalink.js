@@ -2,10 +2,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-        identifier: 'MuzammilOPYT',
-        password: 'yourpasswordhere',
-        host: 'ind1.zapto.org',
-        port: 25575,
+        identifier: 'GlaceYT',
+        password: 'glaceyt',
+        host: '193.226.78.187',
+        port: 9372,
         secure: false
     }
 };
